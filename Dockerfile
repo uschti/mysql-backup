@@ -1,5 +1,5 @@
 # mysql backup image
-FROM alpine:3.10
+FROM alpine:3.8
 LABEL maintainer "Andrea Pellegrini <uschti@gmail.com>"
 
 # install the necessary client
